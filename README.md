@@ -36,10 +36,9 @@ Django Rest Framework utiliza su propia herramienta ```coreapi``` para la docume
 ```
 $ pip install coreapi
 ```
-Imagen
 
-https://raw.github.com/blasdch18/Django_Test/blob/main/Coreapi_tmp.png
-[alt text](https://github.com/blasdch18/Django_Test/blob/main/Coreapi_tmp.png?raw=true)
+![alt text](https://github.com/blasdch18/Django_Test/blob/main/Coreapi_tmp.png?raw=true)
+
 
 ### Running the tests
 
